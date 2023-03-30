@@ -1,2 +1,4 @@
-hello world!
-text1
+//Hello World
+function doSomething(){
+//do something
+}

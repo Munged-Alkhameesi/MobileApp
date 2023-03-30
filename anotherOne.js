@@ -1,2 +1,4 @@
-and another one
-yo
+//AnotherFile
+function doSomething(){
+//do something
+}

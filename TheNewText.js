@@ -1,2 +1,6 @@
-second text
-text2
+//print something function
+
+function printSome()
+{
+//print something 
+}
