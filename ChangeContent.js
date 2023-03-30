@@ -1,5 +1,6 @@
 //AnotherFile
 function doSomething(){
-//do something
+	
+	//change content of element
 	document.getElementById('something).innerHTML = "Hello World";
 }

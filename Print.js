@@ -2,6 +2,6 @@
 
 function printSome()
 {
-//print something 
-	console.log();
+	//print something 
+	console.log("something");
 }
