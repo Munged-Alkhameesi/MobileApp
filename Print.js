@@ -3,4 +3,5 @@
 function printSome()
 {
 //print something 
+	console.log();
 }

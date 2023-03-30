@@ -1,4 +1,4 @@
 //Hello World
 function doSomething(){
-//do something
+Alert("hello");
 }
